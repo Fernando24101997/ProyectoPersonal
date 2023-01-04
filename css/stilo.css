@@ -1,0 +1,52 @@
+
+
+
+ .nav-item-login {
+    text-align: center;
+    
+ }
+main {
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-left: 10%;
+    align-items: center;
+    background-color:#ebeef2;
+    
+}
+
+footer {
+    height: 50%;
+    padding-top: 10px;
+    padding-left: 1%;
+    margin: 0px;
+    background-color: rgb(153, 0, 255);
+    text-align: center;
+}
+.imgnavbar {    
+    height: 30px;
+    width: 30px;
+}
+img {
+    width: 700px ;
+    height: 400px;
+    
+}
+
+ .nav-item {
+    text-align: center;
+ }
+
+
+section img {
+    
+    width: 700px !important;
+    height: 400px !important;
+}
+
+ /* .carrusel {
+    height: 400px;
+    padding-top: 7%;
+    width: 400px;
+}  */
+ 
+

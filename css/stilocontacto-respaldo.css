@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    
+}
+
+header {
+    background-color:rgb(25, 50, 62);
+    height: 30px;
+    padding-top: 10px;
+    text-align: center;
+    color: #FF0000;
+    text-decoration: none;
+    
+}
+
+header, a {
+    color: #FF0000;
+    text-decoration: none;
+
+}
+
+main {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+p {
+   
+    padding-bottom: 2%;
+    
+}
+
+form {
+    margin-left: 15%;
+    
+
+}
+
+section {
+    padding-bottom: 5%;
+    background-color:aqua;
+    padding-top: 1%;
+    width: 400px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-style: solid;
+    border-color: red;
+    box-shadow: 5px 5px 20px 1px;
+}
+
