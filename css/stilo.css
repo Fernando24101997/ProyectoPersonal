@@ -1,6 +1,4 @@
 
-
-
  .nav-item-login {
     text-align: center;
     
@@ -15,11 +13,12 @@ main {
 }
 
 footer {
+    color: #ebeef2;
     height: 50%;
     padding-top: 10px;
     padding-left: 1%;
     margin: 0px;
-    background-color: rgb(153, 0, 255);
+    background-color: rgb(32, 74, 163);
     text-align: center;
 }
 .imgnavbar {    
