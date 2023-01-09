@@ -8,18 +8,16 @@ main {
     padding-right: 10%;
     padding-left: 10%;
     align-items: center;
-    background-color:#ebeef2;
+    background: linear-gradient(90deg, rgb(194, 111, 111) 0%, rgb(0, 11, 110) 50%);
     
 }
 
 footer {
     color: #ebeef2;
-    height: 50%;
-    padding-top: 10px;
-    padding-left: 1%;
-    margin: 0px;
     background-color: rgb(32, 74, 163);
     text-align: center;
+    position: fixed;
+    width: 100%;
 }
 .imgnavbar {    
     height: 30px;
@@ -47,5 +45,7 @@ section img {
     padding-top: 7%;
     width: 400px;
 }  */
- 
+main section {
+    color: #ebeef2;
+}
 
