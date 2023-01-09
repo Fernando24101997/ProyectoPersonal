@@ -16,7 +16,7 @@ footer {
     color: #ebeef2;
     background-color: rgb(32, 74, 163);
     text-align: center;
-    position: fixed;
+    position: relative;
     width: 100%;
 }
 .imgnavbar {    

@@ -5,6 +5,70 @@ html{    background:url(http://thekitemap.com/images/feedback-img.jpg) no-repeat
   height:100%;
 }
 
+* {
+    margin: 0px;
+    
+}
+
+form {
+    margin-left: 15%;
+    
+
+}
+
+section {
+    padding-bottom: 5%;
+    background-color:aqua;
+    padding-top: 1%;
+    width: 400px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-style: solid;
+    border-color: red;
+    box-shadow: 5px 5px 20px 1px;
+}
+
+
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-left: 10%;
+    align-items: center;
+    background-color: #ebeef2;
+}
+
+footer {
+    height: 50%;
+    padding-top: 10px;
+    padding-left: 1%;
+    margin: 0px;
+
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+ .nav-item {
+    text-align: center;
+ }
+.imgnavbar {    
+    height: 30px;
+    width: 30px;
+}
+
+ .visually-hidden {
+    color: black;
+ }
+
+
 #feedback-page{
 	text-align:center;
 }
@@ -165,24 +229,66 @@ input:focus, textarea:focus {
 		padding-right: 3%;
 	}
 }
-.nav-item {
-    text-align: center;
- }
 
- .nav-item-login {
-    text-align: center;
+* {
+    margin: 0px;
     
- }
+}
 
- .imgnavbar {    
+form {
+    margin-left: 15%;
+    
+
+}
+
+section {
+    padding-bottom: 5%;
+    background-color:aqua;
+    padding-top: 1%;
+    width: 400px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-style: solid;
+    border-color: red;
+    box-shadow: 5px 5px 20px 1px;
+}
+
+
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-left: 10%;
+    align-items: center;
+    background-color: #ebeef2;
+}
+
+footer {
+    height: 50%;
+    padding-top: 10px;
+    padding-left: 1%;
+    margin: 0px;
+
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+ .nav-item {
+    text-align: center;
+ }
+.imgnavbar {    
     height: 30px;
     width: 30px;
 }
 
-footer {
-    color: #ebeef2;
-    background-color: rgb(32, 74, 163);
-    text-align: center;
-    position: relative;
-    width: 100%;
-}
+ .visually-hidden {
+    color: black;
+ }
